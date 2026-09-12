@@ -3,6 +3,7 @@
 **Tester:** Sohaila  
 **Website:** [https://demo.guru99.com/V2/](https://demo.guru99.com/V2/)  
 **Tool:** Excel (.xlsx)
+**SRS Document:** The official Guru99 Banking Software Requirements Specification reviewed for this project is included in this repository as `SRS_Complete_Guru99_Banking.docx`.
 
 ## Overview
 
@@ -56,3 +57,4 @@ Manual testing project covering the core modules of the Guru99 demo banking appl
 - **Browser:** Google Chrome, Microsoft Edge
 - **OS:** Cross-platform (web-based testing)
 - **Application:** Guru99 Demo Banking (V2–V4)
+
