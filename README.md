@@ -3,7 +3,7 @@
 **Tester:** Sohaila  
 **Website:** [https://demo.guru99.com/V2/](https://demo.guru99.com/V2/)  
 **Tool:** Excel (.xlsx)
-**SRS Document:** The official Guru99 Banking Software Requirements Specification reviewed for this project is included in this repository as `SRS_Complete_Guru99_Banking.docx`.
+**SRS Document:** The official Guru99 Banking Software Requirements Specification reviewed for this project is included in this repository as SRS_v2.docx .
 
 ## Overview
 
